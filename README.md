@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&hide=contribs,prs&show_icons=true&theme=테마)
+
+
 <!--
 **HenryPark62/HenryPark62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
