@@ -21,7 +21,7 @@
 <div align="left">
 <h3><strong>Sungkyunkwan University, School of Medicine</strong></h3>
 · Integrated M.S. & Ph.D. in Medical AI (Mar 2026 – Present)
-<br/>
+<br>
 · Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니다.  
 </div>
 
