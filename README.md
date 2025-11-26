@@ -21,9 +21,9 @@
 <div align="left">
 <br/>
 
-#**Sungkyunkwan University, School of Medicine** 
+<h3><strong>Sungkyunkwan University, School of Medicine</strong></h3>
 · Integrated M.S. & Ph.D. in Medical AI (Mar 2026 – Present)  
-Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니다.  
+· Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니다.  
 </div>
 
 <br/>
@@ -34,7 +34,7 @@ Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니�
 <div align="left">
 <br/>
 
-**Self-supervised Federated Learning for Diabetic Retinopathy Classification** (Jun 2025 – Aug 2025)  
+<h3><strong>Self-supervised Federated Learning for Diabetic Retinopathy Classification (Jun 2025 – Aug 2025)  
 SeoulTech BIGBASE Lab × National Medical Center 공동 연구.  
 Vision Transformer 기반 자가지도 연합학습 프레임워크를 설계하고, Grad-CAM 등 XAI 기법으로 DR 분류 근거를 시각화했습니다.
 
