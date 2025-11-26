@@ -18,7 +18,7 @@
 
 <h1><strong>🎓 Education</h1></strong>
 <div align="left">
-<h3><strong>Sungkyunkwan University, School of Medicine</strong></h3>
+<h2><strong>Sungkyunkwan University, School of Medicine</strong></h3>
 · Integrated M.S. & Ph.D. in Medical AI (Mar 2026 – Present)
 <br>
 · Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니다.  
@@ -28,17 +28,17 @@
 
 ---
 
-## 🧪 Projects
+<h1><strong>🧪 Projects</h1></strong>
 <div align="left">
-<h3><strong>Self-supervised Federated Learning for Diabetic Retinopathy Classification (Jun 2025 – Aug 2025)</strong></h3>
+<h2><strong>Self-supervised Federated Learning for Diabetic Retinopathy Classification (Jun 2025 – Aug 2025)</strong></h3>
 · SeoulTech BIGBASE Lab & National Medical Center (국립중앙의료원) 공동 연구.
 <br>
 · Vision Transformer 기반 자가지도 연합학습 프레임워크를 설계하고, Grad-CAM 등 XAI 기법으로 DR 분류 근거를 시각화했습니다.
-<h3><strong>LLM-Based Sales Conversation Evaluation and Scoring System (Mar 2025 – Jun 2025)</strong></h3>
+<h2><strong>LLM-Based Sales Conversation Evaluation and Scoring System (Mar 2025 – Jun 2025)</strong></h3>
 · 산학협력 캡스톤 프로젝트, 소프트웨어 저작권 등록: C-2025-019854
 <br>
 · LLM 프롬프트와 파이프라인을 리팩토링하고 웹 UI를 구현하여, 상담 대화에 대한 일관된 JSON 기반 평가 리포트를 자동 생성했습니다.
-<h3><strong>News.ai: LLM-based News Summarization & Email Delivery Service (May 2025 – Jun 2025)</strong></h3>
+<h2><strong>News.ai: LLM-based News Summarization & Email Delivery Service (May 2025 – Jun 2025)</strong></h3>
 · LLM API와 웹 크롤링을 이용해 뉴스 기사를 요약하고, 요약 비율/스타일별 분석 그래프와 함께 이메일로 발송하는 서비스를 만들었습니다.
 <br>
 · 모바일 친화적인 UX/UI를 직접 설계 및 구현했습니다.  
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠 Tech Stack
+<h1><strong>🛠 Tech Stack</h1></strong>
 <div align="center">
   
 ### Languages & Frameworks
