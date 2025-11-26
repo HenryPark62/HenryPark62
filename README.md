@@ -39,8 +39,8 @@
 <br>
 · LLM 프롬프트와 파이프라인을 리팩토링하고 웹 UI를 구현하여, 상담 대화에 대한 일관된 JSON 기반 평가 리포트를 자동 생성했습니다.
 <h3><strong>News.ai: LLM-based News Summarization & Email Delivery Service** (May 2025 – Jun 2025)</strong></h3>
+· LLM API와 웹 크롤링을 이용해 뉴스 기사를 요약하고, 요약 비율/스타일별 분석 그래프와 함께 이메일로 발송하는 서비스를 만들었습니다.
 <br>
-· LLM API와 웹 크롤링을 이용해 뉴스 기사를 요약하고, 요약 비율/스타일별 분석 그래프와 함께 이메일로 발송하는 서비스를 만들었습니다.  
 · 모바일 친화적인 UX/UI를 직접 설계·구현했습니다.  
 </div>
 <br/>
