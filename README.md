@@ -41,7 +41,7 @@
       📅 Jun 2025 – Aug 2025
     </span>
     <br/><br/>
-    <span>🏛 SeoulTech BIGBASE Lab & National Medical Center (국립중앙의료원) 공동 연구</span><br/>
+    · SeoulTech BIGBASE Lab & National Medical Center (국립중앙의료원) 공동 연구</span><br/>
     · Vision Transformer 기반 자가지도 연합학습 프레임워크를 설계하고, Grad-CAM 등 XAI 기법으로 DR 분류 근거를 시각화했습니다.
   </p>
 
@@ -51,7 +51,8 @@
       📅 Mar 2025 – Jun 2025
     </span>
     <br/><br/>
-    <span>🏛 산학협력 캡스톤 프로젝트 · 소프트웨어 저작권: C-2025-019854</span><br/>
+    · 산학협력 캡스톤 프로젝트<br/>
+    · 소프트웨어 저작권: C-2025-019854</span><br/>
     · LLM 프롬프트와 파이프라인을 리팩토링하고 웹 UI를 구현하여, 상담 대화에 대한 일관된 JSON 기반 평가 리포트를 자동 생성했습니다.
   </p>
 
