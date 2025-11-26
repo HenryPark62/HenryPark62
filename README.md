@@ -16,7 +16,7 @@
   </a>
 </div>
 
-## 🎓 Education
+<h1><strong>🎓 Education</h1></strong>
 <div align="left">
 <h3><strong>Sungkyunkwan University, School of Medicine</strong></h3>
 · Integrated M.S. & Ph.D. in Medical AI (Mar 2026 – Present)
