@@ -24,7 +24,7 @@
       📅 Mar 2026 – Present
     </span>
     <br/><br/>
-    <strong>Integrated M.S. & Ph.D. in Medical AI</strong><br/>
+    <strong>Integrated M.S. & Ph.D.</strong><br/>
     Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니다.
   </p>
 </div>
@@ -104,8 +104,7 @@
 <br/>
 <div align="center">
   <a href="mailto:parkwj0602@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:parkwj0602@g.skku.edu"><img src="https://img.shields.io/badge/Henry%20AX-0F172A?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
-  <a href="https://henrypark62.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://henrypark62.github.io"><img src="https://img.shields.io/badge/Homapage-111827?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </div>
 <br/>
 
