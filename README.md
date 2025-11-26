@@ -78,7 +78,7 @@ LLM API와 웹 크롤링을 이용해 뉴스 기사를 요약하고, 요약 비�
 <br/>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -89,7 +89,6 @@ LLM API와 웹 크롤링을 이용해 뉴스 기사를 요약하고, 요약 비�
   </picture>
 </p>
 
-<!--
 <div align="center">
 <br/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryPark62&show_icons=true&theme=tokyonight"/>
