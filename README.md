@@ -10,12 +10,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HenryPark62&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/HenryPark62" width="450" height="250"/>
-  </a>
-</div>
-
 <h1><strong>🎓 Education</strong></h1>
 <div align="left">
   <h2><strong>Sungkyunkwan University, School of Medicine</strong></h2>
