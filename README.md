@@ -7,9 +7,6 @@
 </div>
 
 ---
-
-<br/>
-
 <h1><strong>🎓 Education</strong></h1>
 <div align="left">
   <h2><strong>Sungkyunkwan University, School of Medicine</strong></h2>
