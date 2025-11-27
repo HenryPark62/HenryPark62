@@ -90,7 +90,7 @@
 
 ---
 
-<h1><strong>🤝 Connect</strong></h1>
+<h1><strong>🤝 Contact</strong></h1>
 
 <br/>
 <div align="center">
