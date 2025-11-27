@@ -32,11 +32,11 @@
       📅 Jun 2025 – Aug 2025
     </span>
     <br/><br/>
-    · SeoulTech BIGBASE Lab & National Medical Center (국립중앙의료원) 공동 연구</span><br/>
-    · Vision Transformer 기반 자가지도 연합학습 프레임워크를 설계하고, Grad-CAM 등 XAI 기법으로 DR 분류 근거를 시각화했습니다.
+    · SeoulTech BIGBASE Lab. & National Medical Center (국립중앙의료원) 공동 연구</span><br/>
+    · Vision Transformer 기반 자기지도 연합학습 프레임워크를 설계하고, 모델 학습, Grad-CAM 등 XAI 기법으로 DR 분류 근거를 시각화했습니다.
   </p>
 
-  <h2><strong>LLM-Based Sales Conversation Evaluation and Scoring System</strong></h2>
+  <h2><strong>LLM-based Sales Conversation Evaluation and Scoring System</strong></h2>
   <p>
     <span style="display:inline-block;background-color:#1f2937;color:#e5e7eb;padding:3px 10px;border-radius:999px;font-size:12px;">
       📅 Mar 2025 – Jun 2025
