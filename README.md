@@ -95,7 +95,7 @@
 <br/>
 <div align="center">
   <a href="mailto:parkwj0602@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://henrypark62.github.io"><img src="https://img.shields.io/badge/Homapage-111827?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://henrypark62.github.io"><img src="https://img.shields.io/badge/Homepage-111827?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </div>
 <br/>
 
