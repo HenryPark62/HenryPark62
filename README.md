@@ -15,7 +15,7 @@
       📅 Mar 2026 – Present
     </span>
     <br/><br/>
-    <strong>Integrated M.S. & Ph.D.</strong><br/>
+    <strong>Integrated M.S./Ph.D.</strong><br/>
     Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니다.
   </p>
 </div>
