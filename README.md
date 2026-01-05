@@ -16,7 +16,7 @@
     </span>
     <br/><br/>
     <strong>Integrated M.S./Ph.D.</strong><br/>
-    Medical AI, Explainable AI, Digital Healthcare를 중심으로 연구 중입니다.
+    Research Interests: Medical AI, Explainable AI, Digital Healthcare
   </p>
 </div>
 
@@ -25,6 +25,17 @@
 ---
 
 <h1><strong>🧪 Projects</strong></h1>
+
+<div align="left">
+  <h2><strong>Oneday-Twopills (Haru-doal), Lab-based Healthcare Startup at MBD Lab., SKKU</strong></h2>
+  <p>
+    <span style="display:inline-block;background-color:#1f2937;color:#e5e7eb;padding:3px 10px;border-radius:999px;font-size:12px;">
+      📅 Nov 2025 – Present
+    </span>
+    <br/><br/>
+      • App Developer; integrated backend APIs into a Flutter mobile app, enabling end-to-end client–server communication.<br/>
+  </p>
+
 <div align="left">
   <h2><strong>Self-supervised Federated Learning for Diabetic Retinopathy Classification</strong></h2>
   <p>
@@ -43,9 +54,8 @@
       📅 Mar 2025 – Jun 2025
     </span>
     <br/><br/>
-    · 산학협력 캡스톤 프로젝트<br/>
-    · 소프트웨어 저작권: C-2025-019854</span><br/>
-    · LLM 프롬프트와 파이프라인을 리팩토링하고 웹 UI를 구현하여, 상담 대화에 대한 일관된 JSON 기반 평가 리포트를 자동 생성했습니다.
+      • Industry–academia collaborative capstone project; registered software (C-2025-019854).<br/>
+      • Refactored LLM prompts and developed a user interface to ensure consistent, structured outputs.
   </p>
 
   <h2><strong>News.ai: LLM-based News Summarization & Email Delivery Service</strong></h2>
@@ -54,8 +64,8 @@
       📅 May 2025 – Jun 2025
     </span>
     <br/><br/>
-    · LLM API와 웹 크롤링을 이용해 뉴스 기사를 요약하고, 요약 비율/스타일별 분석 그래프를 제공하는 서비스를 만들었습니다.<br/>
-    · 모바일 친화적인 UX/UI를 직접 설계 및 구현했습니다.
+      • Developed a web-based service that summarizes news articles using an LLM API and a web crawling algorithm.<br/>
+      • Implemented multiple summarization styles and summary-rate visualization, optimizing for mobile-friendly UX/UI.
   </p>
 </div>
 
