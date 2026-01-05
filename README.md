@@ -20,8 +20,6 @@
   </p>
 </div>
 
-<br/>
-
 ---
 
 <h1><strong>🧪 Projects</strong></h1>
