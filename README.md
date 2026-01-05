@@ -32,7 +32,7 @@
       📅 Jun 2025 – Aug 2025
     </span>
     <br/><br/>
-      • Collaborated with SeoulTech and the National Medical Center.
+      • Collaborated with SeoulTech and the National Medical Center.<br/>
       • Researched a domain-agnostic self-supervised federated learning framework based on a Vision Transformer and
       enhanced model explainability using Grad-CAM.
   </p>
