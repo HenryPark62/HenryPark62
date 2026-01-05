@@ -67,8 +67,6 @@
   </p>
 </div>
 
-<br/>
-
 ---
 
 <h1><strong>🛠 Tech Stack</strong></h1>
