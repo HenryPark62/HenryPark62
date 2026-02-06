@@ -25,7 +25,7 @@
 <h1><strong>🧪 Projects</strong></h1>
 
 <div align="left">
-  <h2><strong>Oneday-Twopills (Haru-doal), Lab-based Healthcare Startup at MBD Lab., SKKU</strong></h2>
+  <h2><strong>Oneday-Twopills (Haru-dooal), Lab-based Healthcare Startup at MBD Lab., SKKU</strong></h2>
   <p>
     <span style="display:inline-block;background-color:#1f2937;color:#e5e7eb;padding:3px 10px;border-radius:999px;font-size:12px;">
       📅 Nov 2025 – Present
