@@ -15,7 +15,7 @@
       📅 Mar 2026 – Present
     </span>
     <br/><br/>
-    <strong>Integrated M.S.-Ph.D.</strong><br/>
+    <strong>Integrated M.S./Ph.D.</strong><br/>
     Research Interests: Medical AI, Explainable AI, Digital Healthcare
   </p>
 </div>
