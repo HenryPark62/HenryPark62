@@ -9,13 +9,13 @@
 ---
 <h1><strong>🎓 Education</strong></h1>
 <div align="left">
-  <h2><strong>Sungkyunkwan University, School of Medicine</strong></h2>
+  <h2><strong>School of Medicine, Sungkyunkwan University</strong></h2>
   <p>
     <span style="display:inline-block;background-color:#1f2937;color:#e5e7eb;padding:3px 10px;border-radius:999px;font-size:12px;">
       📅 Mar 2026 – Present
     </span>
     <br/><br/>
-    <strong>Integrated M.S./Ph.D.</strong><br/>
+    <strong>Combined M.S./Ph.D.</strong><br/>
     Research Interests: Medical AI, Explainable AI, Digital Healthcare
   </p>
 </div>
